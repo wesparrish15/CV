@@ -1,0 +1,33 @@
+body {
+         background-color:whitesmoke;
+      }
+
+hr {
+         color: grey;
+         width: 5%;
+         border-style: dotted none none;
+         border-width: thick;
+      }
+
+h1{
+   color: #66BFBF;
+}
+
+h3{
+   color: #66BFBF;
+}
+
+img{
+   width:200px;
+   border: 1px solid #ddd;
+   border-radius: 70%;
+   padding: 5px;
+}
+
+a:link{
+   color: darkcyan;
+}
+
+a:visited{
+   color: #116979;
+}
